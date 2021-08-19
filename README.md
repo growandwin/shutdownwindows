@@ -10,7 +10,7 @@ Its like a "sleep" function from old days TV remotes, you just click one button 
 **just 2 dependencies:**
 1. appJar (for GUI) 
 2. pyinput (to automatically click ENTER when the windows system prompt about windows shutting down appears)
-3. it uses the windows system ```shutdown -s -t XXX`` command
+3. it uses the windows system ```shutdown -s -t XXX``` command
 
 **To run it:**
 1. download and install python https://www.python.org/downloads/ (i run it on python 3.9.1)
