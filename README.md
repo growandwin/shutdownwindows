@@ -13,10 +13,10 @@ Its like a "sleep" function from old days TV remotes, you just click one button 
 1. download and install python https://www.python.org/downloads/ (i run it on python 3.9.1)
 2. install dependencies: open your directory where you downloaded the script in CMD, and run 
 ```pip install requirements.txt```
-3. Make shortcut on you desktop :) 
-4. Make python the default application that opens .py files on your PC
-5. Double click the home.py to choose when to close your computer. 
-6. Minimize the program, otherwise if you close the program it won't click the prompt that windows will push to front reminding you, that in 10 minutes the PC will shutdown. 
+3. Make python the default application that opens .py files on your PC
+4. Double click the home.py to choose when to close your computer. 
+5. Make shortcut to home.py on you desktop :) 
+6. Minimize the program after running, otherwise if you close the program it will shutdown at the desired time, but won't click the prompt that windows will push to front on top of your movie - reminding you, that in 10 minutes the PC will shutdown. 
 
 ![screenshot](https://github.com/growandwin/shutdownwindows/blob/main/screenshot.PNG?raw=true)
 
