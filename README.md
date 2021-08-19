@@ -1,5 +1,7 @@
 # shutdownwindows
-Simple python script to shutdown windows with a single mouse click. Perfect for watching movies from bed before you go to sleep. I use it every day, so I can fall asleep while watching movies on projector screen from my computer and do not need to click ENTER or SPACE 10 minutes before the PC shuts down:)
+Simple python script to shutdown windows with a single mouse click. Perfect for watching movies from bed before you go to sleep. 
+
+I use it every day, so I can fall asleep while watching movies on projector screen from my computer and do not need to click ENTER or SPACE 10 minutes before the PC shuts down:)
 
 Its like a "sleep" function from old days TV remotes, you just click one button that has the number of minutes after which your PC will close. 
 
