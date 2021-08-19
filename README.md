@@ -11,7 +11,8 @@ Its like a "sleep" function from old days TV remotes, you just click one button 
 
 **To run it:**
 1. download and install python https://www.python.org/downloads/ (i run it on python 3.9.1)
-2. install dependencies: open your directory where you downloaded the script in CMD, and run "pip install requirements.txt"
+2. install dependencies: open your directory where you downloaded the script in CMD, and run 
+```pip install requirements.txt```
 3. Make shortcut on you desktop :) 
 4. Make python the default application that opens .py files on your PC
 5. Double click the home.py to choose when to close your computer. 
